@@ -31,7 +31,7 @@
 
 ### Package Managers
 
-* The _Brew_ Package Manager
+* [The _Homebrew_ Package Manager](https://github.com/ATL-WDI-Curriculum/homebrew)
 
 ### Text Editors
 
@@ -57,17 +57,17 @@
 
 ### HTML and DOM
 
-* [HTML and DOM](https://github.com/ATL-WDI-Curriculum/html-dom/blob/master/README.md)
+* [HTML and DOM](https://github.com/ATL-WDI-Curriculum/html-dom)
 
 ### CSS
 
-* [CSS and the Box Model](https://github.com/ATL-WDI-Curriculum/css_boxmodel_wdi6)
+* [CSS and the Box Model](https://github.com/ATL-WDI-Curriculum/css-box-model)
   - [Labs](https://github.com/ATL-WDI-Exercises/css-intro-and-box-model)
 * [CSS Selectors](https://github.com/ATL-WDI-Curriculum/css-selectors)
 * CSS Review and Labs
   - [CSS Review](https://github.com/ATL-WDI-Curriculum/css-review)
   - [CSS Selectors Basic Exercise](https://github.com/ATL-WDI-Exercises/css-selectors-basic-exercise)
-  - [Fashion Blox](https://github.com/ATL-WDI-Exercises/fashion-blog)
+  - [Fashion Blog](https://github.com/ATL-WDI-Exercises/fashion-blog)
 
 ### JavaScript
 
