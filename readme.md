@@ -24,6 +24,5 @@ This course runs from Monday, July 18, 2016 to Friday, October 7, 2016.
 
 ## General Links
 
-* [Google Calendar]()
 * [Scope and Sequence](scope-and-sequence.md)
-* [Main Atlanta WDI Repo](https://github.com/ATL-WDI-Curriculum/wdi)
+* [Main Atlanta WDI Information Repo](https://github.com/ATL-WDI-Curriculum/wdi)
