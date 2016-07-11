@@ -15,7 +15,15 @@ This course runs from Monday, July 18, 2016 to Friday, October 7, 2016.
   - EMail:  emily.reese@ga.co
   - GitHub: eareese - [GitHub](https://github.com/eareese)
 
-## Links
+## Instructor Associates
+
+* Andrea Airall
+  - Slack:
+  - EMail: andreaairall@gmail.com
+  - GitHub: AndreaVeronica - [AndreaVeronica](https://github.com/AndreaVeronica)
+
+## General Links
 
 * [Google Calendar]()
 * [Scope and Sequence](scope-and-sequence.md)
+* [Main Atlanta WDI Repo](ttps://github.com/ATL-WDI-Curriculum/wdi)
