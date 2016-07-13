@@ -19,7 +19,7 @@ This course runs from Monday, July 18, 2016 to Friday, October 7, 2016.
 
 * Andrea Airall
   - Slack: @andreaairall
-  - EMail: andreaairall@gmail.com
+  - EMail: andrea.airall@ga.co
   - GitHub: AndreaVeronica - [AndreaVeronica](https://github.com/AndreaVeronica)
 
 ## General Links
