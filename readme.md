@@ -28,3 +28,12 @@ This course runs from Monday, July 18, 2016 to Friday, October 7, 2016.
 * [Student Laptop Requirements](https://github.com/ATL-WDI-Curriculum/student-laptop-requirements-and-setup)
 * [Scope and Sequence](scope-and-sequence.md)
 * [Main Atlanta WDI Information Repo](https://github.com/ATL-WDI-Curriculum/wdi)
+
+## Other Resources
+
+* [GAlaxy](https://ga-laxy.herokuapp.com)
+* Slack Team - GA Immersive Students
+  * wdi7-atl-classroom
+  * wdi7-atl-outcomes
+  * wdi7-atl-resources
+  * wdi7-atl-parkinglot
