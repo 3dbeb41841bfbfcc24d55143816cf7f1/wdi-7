@@ -39,4 +39,3 @@
 * Open to revision / discussion as issues arise
 * Instructors need breaks as well
 
-I
