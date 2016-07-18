@@ -24,6 +24,7 @@ This course runs from Monday, July 18, 2016 to Friday, October 7, 2016.
 
 ## General Links
 
+* [Orientation Slides](orientation-deck.pdf)
 * [Student Laptop Requirements](https://github.com/ATL-WDI-Curriculum/student-laptop-requirements-and-setup)
 * [Scope and Sequence](scope-and-sequence.md)
 * [Main Atlanta WDI Information Repo](https://github.com/ATL-WDI-Curriculum/wdi)
